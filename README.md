@@ -1,6 +1,9 @@
 # SimplerExport
 Max4Live device to export sample slices from a Simpler device.
 
+## Dependencies
+This devices depends on flucoma, wich can be downloaded and installed for free from their [website](https://www.flucoma.org/) or the Max MSP Package Manager.
+
 ## Installation
 Drag and drop the file into the File Browser of Ableton.
 

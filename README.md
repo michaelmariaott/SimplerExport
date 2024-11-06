@@ -8,6 +8,6 @@ This devices depends on flucoma, wich can be downloaded and installed for free f
 Drag and drop the file into the File Browser of Ableton.
 
 ## Usage
-On the same track with a Simpler device. It will automatically contect to the simpler device and try to load the sample and slicepoints. If it can't load the sample automatically, drag the same sample onto the "Drop Something Here!" zone.
+Place the device on the same track as a Simpler device. It will automatically connect to the simpler device and try to load the sample and slice points. If it can't load the sample automatically, drag the same sample into the "Drop Something Here!
 
-Hover over the buttons or open the Info View of Ableton to see what each setting does.
+Hover over the buttons or open the Ableton Info View to see what each setting does.
